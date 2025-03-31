@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**mahitile/mahitile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mahlet Tilahun!  
 
-Here are some ideas to get you started:
+### 🌍 About Me  
+- 🏡 Living and studying in **Addis Ababa, Bole Bulbula**  
+- 💻 Passionate about **the internet and IT**  
+- 🚀 Learning **HTML, CSS, and JavaScript**  
+- 🎓 A top student, ranking **1st to 3rd** in my class  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Learning  
+- **Languages**: HTML, CSS, JavaScript (actively learning)  
+- **Interests**: Web development, open-source, and IT in general  
+- **Future Goals**: Become a **full-stack web developer**  
+
+### 📌 My Projects  
+🔹 [Project Name](#) – Brief description of your project  
+🔹 [Another Project](#) – Another brief description  
+
+### 🌱 Currently Exploring  
+- **JavaScript** – Improving my logic and DOM manipulation  
+- **Responsive Web Design** – Making websites mobile-friendly  
+- **Open Source** – Planning to contribute in the future!  
+
+### 📫 Let's Connect  
+- **GitHub**: [github.com/mahitile](#)  
+- **Email**: mahitile12@gmail.com.com    
+
+Thanks for visiting my profile! 🚀
