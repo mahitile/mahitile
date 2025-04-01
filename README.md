@@ -13,7 +13,7 @@
 - **Future Goals**: Become a **full-stack web developer**  
 
 ### 📌 My Projects  
-🔹 [Abune Melke Tsedek School website](#) – Brief description of project is available at  
+🔹 [Abune Melke Tsedek School Website](https://github.com/mahitile/Abune-Melke-Tsedek-School-Website) – A school website built with HTML, CSS, and JavaScript
 
 ### 🌱 Currently Exploring  
 - **JavaScript** – Improving my logic and DOM manipulation  
