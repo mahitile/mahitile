@@ -13,8 +13,7 @@
 - **Future Goals**: Become a **full-stack web developer**  
 
 ### 📌 My Projects  
-🔹 [Project Name](#) – Brief description of your project  
-🔹 [Another Project](#) – Another brief description  
+🔹 [Abune Melke Tsedek School website](#) – Brief description of project is available at  
 
 ### 🌱 Currently Exploring  
 - **JavaScript** – Improving my logic and DOM manipulation  
